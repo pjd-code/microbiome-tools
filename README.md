@@ -1,2 +1,2 @@
 # microbiome-tools
-refseq and classifier reads are truncated to 150 bp, only good for single end v3 or v4 
+refseq and classifier reads are truncated to ~300bp for the V4 region and ~200 for the V3 region
